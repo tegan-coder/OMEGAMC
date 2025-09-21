@@ -1017,18 +1017,18 @@
     },
     {
       "id": "WesterosCraft-Demo-1.12.2",
-      "name": "WesterosCraft-Demo (Minecraft 1.12.2)",
-      "description": "WesterosCraft-Demo Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
-      "icon": "https://helios-files.geekcorner.eu.org/servers/WesterosCraft-Demo-1.12.2/WesterosCraft-Demo-1.12.2.png",
-      "version": "2.1.6",
-      "address": "mc.westeroscraft.com:25565",
+      "name": "HYCAVE (Minecraft 1.12.2)",
+      "description": "Demo Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
+      "icon": "https://battly.site/logo.png",
+      "version": "1.0.10",
+      "address": "play.hycavemc.it",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "WesterosCraft Demo",
         "largeImageKey": "westeroscraft",
         "largeImageText": "Change me through Nebula"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": false,
       "modules": [
         {
@@ -1272,6 +1272,16 @@
               }
             }
           ]
+        },
+        {
+          "id": "com.FPSboost:FPSboost-1.12.2@jar",
+          "name": "FPSboost 1.12.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4851059,
+            "url": "https://cdn.modrinth.com/data/Ji8CJK0n/versions/muMpe6nu/FPSboost-1.12.2.jar",
+            "MD5": "f899139df5e1059396431415e770c6dd"
+          }
         },
         {
           "id": "com.creativemd:creativecore:1.10@jar",
