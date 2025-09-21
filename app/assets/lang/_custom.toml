@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "OmegaMC Launcher"
+
+[ejs.landing]
+mediaGitHubURL = "https://launcher.omegamc.it"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://discord.omegamc.it"
+
+[ejs.settings]
+sourceGithubLink = "#"
+supportLink = "#"
+
+[ejs.welcome]
+welcomeHeader = "BENVENUTO/A SU OMEGAMC"
+welcomeDescription = "Copyright © 2025 BATTLY"
+welcomeDescCTA = "Sviluppato da BattlyStudios®"
